@@ -1,0 +1,143 @@
+Microsoft Windows [Versione 10.0.19045.3448]
+(c) Microsoft Corporation. Tutti i diritti sono riservati.
+
+C:\Users\Fabrizio>cd C:\Users\Fabrizio\AppData\Roaming\Python\Python39\Scripts
+
+C:\Users\Fabrizio\AppData\Roaming\Python\Python39\Scripts>python d:\Univ\ID\HW4\hw4_es1.py
+crawl
+
+1: https://www.amazon.it/dp/B07YXH2DLL/
+Nome: //tr[@class='a-spacing-small po-model_name']/td[2]/span
+Prezzo: //span[@class='a-price aok-align-center reinventPricePriceToPayMargin priceToPay']
+Marca: //tr[@class='a-spacing-small po-brand']/td[2]/span
+Fattore di forma: //tr[@class='a-spacing-small po-form_factor']/td[2]/span
+Risoluzione fissa efficace: //tr[@class='a-spacing-small po-effective_still_resolution']/td[2]/span
+ID articolo: //th[@class='a-color-secondary a-size-base prodDetSectionEntry' and normalize-space()='Numero modello articolo']/../td[1]
+Dimensioni prodotto: //th[@class='a-color-secondary a-size-base prodDetSectionEntry' and normalize-space()='Dimensioni prodotto']/../td[1]
+Dimensione schermo: //th[contains(@class,'comparison_table_first_col')]/span[normalize-space()='Dimensione schermo']/../../td[1]
+Venduto da: //th[contains(@class,'comparison_table_first_col')]/span[normalize-space()='Venduto da']/../../td[1]
+Nome: Z50 + Z DX 16-50 VR + Z DX 50-250VR
+Prezzo: 1.333,00€
+Marca: Nikon
+Fattore di forma: Mirrorless
+Risoluzione fissa efficace: 20,9 MP
+ID articolo: VOA050K002
+Dimensioni prodotto: 6 x 12,65 x 9,35 cm; 935 grammi
+Dimensione schermo: 3.2 pollici
+Venduto da: Edeal Srl
+
+2: https://www.amazon.it/dp/B09JPCB3WR/
+Nome: ILCE-7M4B
+Prezzo: 2.466,55€
+Marca: Sony
+Fattore di forma: Mirrorless
+Risoluzione fissa efficace: 33 MP
+ID articolo: ILCE7M4B.CEC
+Dimensioni prodotto: 6,97 x 13,13 x 9,64 cm; 987 grammi
+Dimensione schermo: 3 pollici
+Venduto da: Amazon.it
+
+3: https://www.amazon.it/dp/B0837HK2DT/
+Nome: D780+AF-S NIKKOR 24-120 VR
+Prezzo: 2.749,00€
+Marca: Nikon
+Fattore di forma: DSLR
+Risoluzione fissa efficace: 24,5 MP
+ID articolo: VBA560K001
+Dimensioni prodotto: 10 x 10 x 10 cm; 840 grammi
+Dimensione schermo: 8 cm
+Venduto da: Edeal Srl
+
+4: https://www.amazon.it/dp/B07QJ21YQ6/
+Nome: EOS 250D con obiettivo EF-S 18-55 mm f/3.5-5.6 III, nero
+Prezzo: 709,00€
+Marca: Canon
+Fattore di forma:
+Risoluzione fissa efficace:
+ID articolo: 3454C003
+Dimensioni prodotto: 6,9 x 12,2 x 9,2 cm; 449 grammi
+Dimensione schermo: 3 pollici
+Venduto da: Amazon.it
+
+5: https://www.amazon.it/dp/B00Q2KEVA2/
+Nome: Alpha 7 II
+Prezzo: 1.059,00€
+Marca: Sony
+Fattore di forma: Mirrorless
+Risoluzione fissa efficace: 24.3
+ID articolo: ALPHA 7M2 + 28-70mm
+Dimensioni prodotto: 6 x 12,7 x 9,6 cm; 556 grammi
+Dimensione schermo: 3 pollici
+Venduto da: DEALS 4 LIFE
+
+6: https://www.amazon.it/dp/B09JPCNS3X/
+Nome: ILCE-7M4KB
+Prezzo: 2.639,00€
+Marca: Sony
+Fattore di forma: Mirrorless
+Risoluzione fissa efficace: 33 MP
+ID articolo: ILCE7M4KB.CEC
+Dimensioni prodotto: 6,97 x 13,13 x 9,64 cm; 1,3 Kg
+Dimensione schermo: 3 pollici
+Venduto da: Edeal Srl
+
+7: https://www.amazon.it/dp/B08NDZRJJP/
+Nome: Nikon Z6 II + Z 24-70mm f/4 S
+Prezzo: 2.677,51€
+Marca: Nikon
+Fattore di forma: Mirrorless
+Risoluzione fissa efficace: 24,5 MP
+ID articolo: VOA060K001
+Dimensioni prodotto: 13,4 x 10,05 x 6,95 cm; 705 grammi
+Dimensione schermo: 8 cm
+Venduto da: Amazon.it
+
+8: https://www.amazon.it/dp/B08485YF1Z/
+Nome: D780 + AF-S NIKKOR 24-120 VR + Lexar SD 64GB 800x Pro
+Prezzo: 3.057,00€
+Marca: Nikon
+Fattore di forma: DSLR
+Risoluzione fissa efficace: 24,5 MP
+ID articolo: Vba560K001
+Dimensioni prodotto: 14,3 x 11,55 x 7,6 cm; 1,45 Kg
+Dimensione schermo: 8 cm
+Venduto da: FotoDiego
+
+9: https://www.amazon.it/dp/B073D2G7XY/
+Nome: CAMARA DIGITAL REFLEX CANON EOS 6D MARK II BODY (SOLO CUERPO) CMOS/ 26.2MP/ DIGIC 7/ 45 PUNTOS DE ENFOQUE/ WIFI/ BLUETOOTH/ GPS
+Prezzo: 1.285,00€
+Marca: Canon
+Fattore di forma:
+Risoluzione fissa efficace:
+ID articolo: 1897C003AA
+Dimensioni prodotto: 14,4 x 7,48 x 11 cm; 765 grammi
+Dimensione schermo: 3 pollici
+Venduto da: Edeal Srl
+
+10: https://www.amazon.it/dp/B084S59W2S/
+Nome: EOS 850D
+Prezzo: 919,00€
+Marca: Canon
+Fattore di forma: Compatta
+Risoluzione fissa efficace: 24,1 MP
+ID articolo: 3925C001
+Dimensioni prodotto: 13,1 x 7,62 x 10,26 cm; 515 grammi
+Dimensione schermo: 3 pollici
+Venduto da: Edeal Srl
+
+11: https://www.amazon.it/dp/B08F7MWWFQ/
+Nome: Z5 + Z 24-50mm + Lexar SD 64GB 800x Pro
+Prezzo: 1.619,00€
+Marca: Nikon
+Fattore di forma: Mirrorless
+Risoluzione fissa efficace: 24,3 MP
+ID articolo: VOA040K001
+Dimensioni prodotto: 13,4 x 10,05 x 6,95 cm; 855 grammi
+Dimensione schermo: 8 cm
+Venduto da: FotoDiego
+
+
+Spent 50.976 sec, crawling
+
+
+C:\Users\Fabrizio\AppData\Roaming\Python\Python39\Scripts>
